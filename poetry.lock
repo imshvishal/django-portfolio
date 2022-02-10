@@ -41,7 +41,7 @@ requests = ">=2.19.1"
 
 [[package]]
 name = "django"
-version = "3.2.9"
+version = "3.2.12"
 description = "A high-level Python Web framework that encourages rapid development and clean, pragmatic design."
 category = "main"
 optional = false
@@ -171,7 +171,7 @@ socks = ["PySocks (>=1.5.6,!=1.5.7,<2.0)"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "ee758d0d88e2bd678bb3ef213c7a874b741f4f7fc7f72340d3c51a71248c740c"
+content-hash = "a2d910babe9fe0e8da70b3ad9d02c4e943e3d7a49997fb2c695c2d03bbd738ab"
 
 [metadata.files]
 asgiref = [
@@ -191,8 +191,8 @@ discord-webhook = [
     {file = "discord_webhook-0.14.0-py3-none-any.whl", hash = "sha256:17e475d8a52fe0bfa26b071925f55087600e9bb96e821b611dc463f4b4998c89"},
 ]
 django = [
-    {file = "Django-3.2.9-py3-none-any.whl", hash = "sha256:e22c9266da3eec7827737cde57694d7db801fedac938d252bf27377cec06ed1b"},
-    {file = "Django-3.2.9.tar.gz", hash = "sha256:51284300f1522ffcdb07ccbdf676a307c6678659e1284f0618e5a774127a6a08"},
+    {file = "Django-3.2.12-py3-none-any.whl", hash = "sha256:9b06c289f9ba3a8abea16c9c9505f25107809fb933676f6c891ded270039d965"},
+    {file = "Django-3.2.12.tar.gz", hash = "sha256:9772e6935703e59e993960832d66a614cf0233a1c5123bc6224ecc6ad69e41e2"},
 ]
 django-admin-interface = [
     {file = "django-admin-interface-0.17.3.tar.gz", hash = "sha256:c0af51643112b96db76710fd11e80249e1309c9223d7bf05fa91366d11576ab4"},
