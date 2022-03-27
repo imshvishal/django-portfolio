@@ -1,4 +1,6 @@
-Django==3.2.9
+Django
 django-admin-interface==0.17.3
 django-jazzmin==2.4.8
 discord-webhook==0.14.0
+tzdata
+
