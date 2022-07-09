@@ -2,6 +2,4 @@
 
 I used the template from [templateflip](https://templateflip.com) for the frontend.
 
-• [Portfolio Website](https://krvishal.tk)
-
 	For any help reach out to me.
